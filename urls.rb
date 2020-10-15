@@ -1,0 +1,26 @@
+$urls = %w(
+https://beauty.hotpepper.jp/slnH000413115/?cstt=1
+https://beauty.hotpepper.jp/slnH000115653/?cstt=2
+https://beauty.hotpepper.jp/slnH000221935/?cstt=3
+https://beauty.hotpepper.jp/slnH000132385/?cstt=4
+https://beauty.hotpepper.jp/slnH000187678/?cstt=5
+https://beauty.hotpepper.jp/slnH000493980/?cstt=6
+https://beauty.hotpepper.jp/slnH000272910/?cstt=7
+https://beauty.hotpepper.jp/slnH000307368/?cstt=8
+https://beauty.hotpepper.jp/slnH000177575/?cstt=9
+https://beauty.hotpepper.jp/slnH000358265/?cstt=10
+https://beauty.hotpepper.jp/slnH000241049/?cstt=11
+https://beauty.hotpepper.jp/slnH000457736/?cstt=12
+https://beauty.hotpepper.jp/slnH000193936/?cstt=13
+https://beauty.hotpepper.jp/slnH000281581/?cstt=14
+https://beauty.hotpepper.jp/slnH000493564/?cstt=15
+https://beauty.hotpepper.jp/slnH000395316/?cstt=16
+https://beauty.hotpepper.jp/slnH000490307/?cstt=17
+https://beauty.hotpepper.jp/slnH000180988/?cstt=18
+https://beauty.hotpepper.jp/slnH000488014/?cstt=19
+https://beauty.hotpepper.jp/slnH000358633/?cstt=20
+https://beauty.hotpepper.jp/slnH000463124/?cstt=21
+https://beauty.hotpepper.jp/slnH000361607/?cstt=22
+https://beauty.hotpepper.jp/slnH000288292/?cstt=23
+https://beauty.hotpepper.jp/slnH000484162/?cstt=24
+)
