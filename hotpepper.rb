@@ -2,7 +2,6 @@ require 'nokogiri'
 require 'open-uri'
 require_relative 'urls.rb'
 
-# NokogiriでURLの情報を取得する
 $urls.each do |url|
   doc = Nokogiri::HTML(open(url),nil,"utf-8")
   
